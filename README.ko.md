@@ -1,5 +1,8 @@
 # 🎬 MP4 to WebP Converter
 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
+[![Korean](https://img.shields.io/badge/lang-한국어-red)](README.ko.md)
+
 고성능 MP4 비디오를 WebP 애니메이션으로 변환하는 웹 기반 도구입니다.
 
 ## ✨ 주요 기능
