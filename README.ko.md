@@ -3,6 +3,8 @@
 [![English](https://img.shields.io/badge/lang-English-blue)](README.md)
 [![Korean](https://img.shields.io/badge/lang-한국어-red)](README.ko.md)
 
+<img width="1099" height="932" alt="화면 캡처 2025-08-21 111135" src="https://github.com/user-attachments/assets/ba17ea4f-36ec-4a0a-a2da-8a3955926828" />
+
 고성능 MP4 비디오를 WebP 애니메이션으로 변환하는 웹 기반 도구입니다.
 
 ## ✨ 주요 기능
