@@ -4,6 +4,8 @@
 [![English](https://img.shields.io/badge/lang-English-blue)](README.md)
 [![Korean](https://img.shields.io/badge/lang-한국어-red)](README.ko.md)
 
+<img width="1092" height="932" alt="화면 캡처 2025-08-21 111153" src="https://github.com/user-attachments/assets/c5bc8b48-0069-4f2d-8521-864846c93daf" />
+
 A high-performance web-based tool for converting MP4 videos to WebP animations with advanced customization options.
 
 ## ✨ Features
